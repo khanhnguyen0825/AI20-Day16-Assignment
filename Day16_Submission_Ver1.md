@@ -1,4 +1,4 @@
-# Day 16 Submission — Team [tên team]
+# Day 16 Submission
 
 ## Student
 - A202600404 - Nguyễn Thành Đại Khánh
